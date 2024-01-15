@@ -79,7 +79,7 @@ button{
 button:hover{
     background: #f1a6bc;
 }
-@media(max-width:600px) {
+@media(max-width:200px) {
     .video{
         position: fixed;
         right: 0;
